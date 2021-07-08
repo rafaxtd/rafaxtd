@@ -30,8 +30,6 @@ I have started my journey this year, and I am loving that. Hope we can connect a
 </a>
 
 
-<br>
-<br>
 
 ## 🖍📐 What I currently started learning
 <br>
