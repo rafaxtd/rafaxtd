@@ -7,7 +7,7 @@ Hey there! Welcome to my profile 👋
 </p>
 
 <p align="center">
- I am currently learning and improving my skills in development. I am a student in System Develpment Analysis at Impacta.
+ I am currently learning and improving my skills in development. I am a student in System Development Analysis at Impacta.
 </p>
 
 <p align="center">
