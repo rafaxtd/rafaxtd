@@ -59,11 +59,11 @@ I have started my journey this year, and I am loving that. Hope we can connect a
 
 
 <a href="https://github.com/rafaxtd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaxtd&show_icons=true&theme=dracula" />
+  <img align="center" height="170em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=rafaxtd&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/rafaxtd/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaxtd&layout=compact&theme=dracula" />
+  <img align="center" height="170em" max-width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaxtd&layout=compact&theme=dracula" />
 </a>
 
 
